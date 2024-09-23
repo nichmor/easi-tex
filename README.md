@@ -1,6 +1,5 @@
 # Setup
 
-The code is tested on Ubuntu 20.04 LTS with PyTorch 2.0.1 and CUDA 11.8. Please follow the steps below to setup the environment.
 
 ```shell
 # create and activate the conda environment
